@@ -45,7 +45,7 @@ The repository is organized into the following folders:
    git clone https://github.com/Actavich/CodeCamp-Training-Projects.git
 2. Navigate to the folder of the project you'd like to explore:
 
-'cd "folder name"'
+`cd "folder name"`
 
 3. Open the .html file in your browser to view the project.
 
